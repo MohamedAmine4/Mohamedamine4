@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*cD8WMb82cSXACDTG8mlWhw.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*cD8WMb82cSXACDTG8mlWhw.gif)
 <h1 align="center">Hi 👋, I'm Boussoualef Mohamed Amine</h1>
 <h3 align="center">An enthusiastic full-stack developer hailing from France.</h3>
 <img align="right" alt="Codage" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
