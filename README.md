@@ -75,5 +75,5 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-amine-boussoualef-b78020262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amine boussoualef" height="30" width="40" /></a>
-   <a href="https://mohamedamine4.github.io/PortFolio_/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/285/477/png-clipart-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-thumbnail.png" alt="mohamed amine boussoualef" height="30" width="40" /></a>
+   <a href="https://mohamedamine4.github.io/PortFolio_/" target="blank"><img align="center" src="https://st3.depositphotos.com/4799321/13972/v/1600/depositphotos_139722380-stock-illustration-go-to-web-icon-internet.jpg" alt="mohamed amine boussoualef" height="30" width="40" /></a>
 </p>
